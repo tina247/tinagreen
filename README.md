@@ -9,9 +9,9 @@ $ touch README
 <pre>
     <div class="container">
         <div class="block two first">
-            <h2>Tina Gren</h2>
+            <h2>Tina Green</h2>
             <div class="wrap">
-            //COOL
+            And I am cool.
             </div>
         </div>
     </div>
